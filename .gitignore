@@ -1,0 +1,43 @@
+# Dot Files
+.*
+
+# Unspecified Folders and Files
+/*
+!inc/
+!src/
+!hat/
+!doc/
+!hat.png
+!modbus.service
+
+# Build Artifacts
+*.a
+*.d
+*.o
+*.Td
+*.lo
+*.so
+*.lib
+*.dll
+*.dylib
+*.dump
+
+# Apple Shenanigans
+._*
+.DS_Store
+
+# Microsoft Shenanigans
+Thumbs.db
+
+# GNU Schenanigans
+*.orig
+*~
+\#*#
+
+# IDE leftovers
+compile_flags.txt
+compile_commands.json
+
+# Track Git Files
+!.gitignore
+!.mailmap

@@ -1,0 +1,4 @@
+# KiCad files
+*-backups/
+*-cache
+*.lck
