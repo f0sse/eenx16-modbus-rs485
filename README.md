@@ -1,3 +1,4 @@
+Projektfiler för kandidatarbetet "Demand Side Flexibility in Electrical Heating Systems" på Chalmers 2024.
 
 # Modbus
 
